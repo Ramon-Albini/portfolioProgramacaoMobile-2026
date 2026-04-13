@@ -9,7 +9,7 @@ Este repositório contém diferentes projetos desenvolvidos com o objetivo de pr
 
 Projeto simples em Dart que demonstra conceitos fundamentais da linguagem, como estruturas de controle, listas, mapas, funções, orientação a objetos, tratamento de exceções e null safety.
 
-📁 Diretório: `./DartBasico`
+📁 Diretório: [`./DartBasico`](./dart_exemplo)
 
 ---
 
@@ -17,7 +17,7 @@ Projeto simples em Dart que demonstra conceitos fundamentais da linguagem, como 
 
 Aplicação Flutter com foco na construção de interfaces utilizando widgets. Demonstra gerenciamento de estado com `StatefulWidget`, uso de layouts (`Row`, `Column`, `Expanded`) e criação de componentes reutilizáveis.
 
-📁 Diretório: `./FlutterWidgets`
+📁 Diretório: [`./FlutterWidgets`](./aula_widgets/aula_widgets)
 
 ---
 
@@ -25,7 +25,7 @@ Aplicação Flutter com foco na construção de interfaces utilizando widgets. D
 
 Programa introdutório em Dart que imprime mensagens no terminal, utilizado para demonstrar a estrutura básica da linguagem e execução via linha de comando.
 
-📁 Diretório: `./HelloWorld`
+📁 Diretório: [`./HelloWorld`](hello_word_dart)
 
 ---
 
