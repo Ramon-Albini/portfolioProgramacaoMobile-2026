@@ -29,11 +29,11 @@ Programa introdutório em Dart que imprime mensagens no terminal, utilizado para
 
 ---
 
-## 📲 Atividades Avaliativas — Programação para Dispositivos Móveis
+##  Atividades Avaliativas — Programação para Dispositivos Móveis
 
 Conjunto de atividades práticas desenvolvidas em grupo durante a disciplina, envolvendo desde configuração inicial em Dart até desenvolvimento de aplicações completas em Flutter com boas práticas de organização e arquitetura.
 
-📁 Diretório: `./Atividades-Mobile`
+📁 Diretório: [`./Atividades-Mobile`](https://github.com/jpktolentino-dot/Atividades-Avaliativas-Mobile)
 
 ###  Resumo das Atividades
 
