@@ -29,4 +29,20 @@ Programa introdutório em Dart que imprime mensagens no terminal, utilizado para
 
 ---
 
+## 📲 Atividades Avaliativas — Programação para Dispositivos Móveis
+
+Conjunto de atividades práticas desenvolvidas em grupo durante a disciplina, envolvendo desde configuração inicial em Dart até desenvolvimento de aplicações completas em Flutter com boas práticas de organização e arquitetura.
+
+📁 Diretório: `./Atividades-Mobile`
+
+###  Resumo das Atividades
+
+* **Hello World em Dart:** Introdução ao ambiente e execução básica no terminal
+* **CRUD de Biblioteca (Dart):** Sistema com POO para gerenciamento de livros
+* **Calculadora em Flutter:** App com componentização de widgets
+* **To-Do List com Riverpod:** Aplicação com gerenciamento de estado moderno
+
+---
+
+
 Projetos desenvolvidos somente para fins educacionais 
